@@ -1,5 +1,11 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+//Created by 21343011_Nur Chintia Ningsih
+1. JobSheet8.java merupakan file latihan 1, menampilkan cara mengakses elemen array.
+2. PanjangArray.java merupakan file latihan2, menampilkan panjang array sesuai input.
+3. ArrayMultidimensi.java merupakan file latihan 3, menampilkan cara mengakses variabel sesuai indeks yang
+telah di input.
+4. Tugas1.java merupakan file tugas 1, menampilkan penggunaan for - loop.
+5. Tugas2.java merupakan file tugas 2, menampilkan penggunaan JoptionPane 
+dengan menginput 10 nomor, lalu menampilkan angka terbesar. 
+6. BukuAlamat.java merupakan file tugas 3, menampilkan cara mengakses array sesuai indeks
+yang telah di input. 
